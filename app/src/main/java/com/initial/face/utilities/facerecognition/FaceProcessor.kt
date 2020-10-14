@@ -80,7 +80,7 @@ class FaceProcessor(faceMarker: FaceMarker) {
         }
     }
 
-    fun correctImageRotation(image: Bitmap?, rotation: Float): Bitmap? {
+    private fun correctImageRotation(image: Bitmap?, rotation: Float): Bitmap? {
         val matrix = Matrix()
         matrix.postRotate(rotation)
         image?.let {
