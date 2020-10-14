@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facial_expression_model_file_name">model_facial_expression_quant.tflite</string>
+</resources>

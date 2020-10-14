@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MARGINS -->
+    <dimen name="emotion_description_text_margins">8</dimen>
+
+    <!-- WIDTHS -->
+    <dimen name="face_detection_frame_width">8</dimen>
+    <dimen name="emotion_description_text_width">8</dimen>
+
+    <!-- TEXT SIZES -->
+    <dimen name="emotion_description_text_size">8sp</dimen>
+</resources>

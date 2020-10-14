@@ -1,0 +1,3 @@
+include ':opencv'
+rootProject.name='face'
+include ':app'
